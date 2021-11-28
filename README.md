@@ -1,7 +1,7 @@
 ---
 title: F7 - New SPO Business Opportunities
 description: Stake Pool Operators are a key-success-factor of Cardano. With their infrastructure and capabilities, important new services can be created
-Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
+Ideascale: https://cardano.ideascale.com/a/campaign-home/26245
 ---
 
 ![2021-11-28 (9)](https://user-images.githubusercontent.com/25156451/143788226-b313c25b-bb3f-4eb8-9190-d14e3811f740.png)
